@@ -1,0 +1,56 @@
+PODS:
+  - emoji_picker_flutter (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - emoji_picker_flutter
+    - Flutter
+    - path_provider_ios
+    - shared_preferences_ios
+    - url_launcher_ios
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - prodcrew_chat (0.0.1):
+    - Flutter
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - emoji_picker_flutter (from `../prodcrew_chat/.ios/.symlinks/plugins/emoji_picker_flutter/ios`)
+  - Flutter (from `../prodcrew_chat/.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../prodcrew_chat/.ios/Flutter/FlutterPluginRegistrant`)
+  - path_provider_ios (from `../prodcrew_chat/.ios/.symlinks/plugins/path_provider_ios/ios`)
+  - prodcrew_chat (from `../prodcrew_chat/.ios/Flutter`)
+  - shared_preferences_ios (from `../prodcrew_chat/.ios/.symlinks/plugins/shared_preferences_ios/ios`)
+  - url_launcher_ios (from `../prodcrew_chat/.ios/.symlinks/plugins/url_launcher_ios/ios`)
+
+EXTERNAL SOURCES:
+  emoji_picker_flutter:
+    :path: "../prodcrew_chat/.ios/.symlinks/plugins/emoji_picker_flutter/ios"
+  Flutter:
+    :path: "../prodcrew_chat/.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../prodcrew_chat/.ios/Flutter/FlutterPluginRegistrant"
+  path_provider_ios:
+    :path: "../prodcrew_chat/.ios/.symlinks/plugins/path_provider_ios/ios"
+  prodcrew_chat:
+    :path: "../prodcrew_chat/.ios/Flutter"
+  shared_preferences_ios:
+    :path: "../prodcrew_chat/.ios/.symlinks/plugins/shared_preferences_ios/ios"
+  url_launcher_ios:
+    :path: "../prodcrew_chat/.ios/.symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  emoji_picker_flutter: df19dac03a2b39ac667dc8d1da939ef3a9e21347
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  FlutterPluginRegistrant: ac16d3579b636a15a8e90c1eaf23a8fcf21df2c9
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  prodcrew_chat: 3f9889d57fe58e01cb5b9f8d83f539ae6983ba61
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
+
+PODFILE CHECKSUM: e2edac980a88aa7aae122ace4b3ae1b0eb8f23c5
+
+COCOAPODS: 1.11.3
